@@ -22,7 +22,7 @@ print(type(hello_dict))
 #hello_list = list()
 #print(hello_list)
 
-#print(hello_list[0], hello_list[1], hello_list[2], hello_list[3], hello_list[4], hello_list[-1]) 
+print(hello_list[0], hello_list[1], hello_list[2], hello_list[3], hello_list[4], hello_list[-1]) 
 
 
 
